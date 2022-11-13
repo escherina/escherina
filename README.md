@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi, I'm Rhian! 👋
+
+<dl>
+<dt>
+Home page:
+</dt>
+<dd>https://rhianvanesch.com</dd>
+<dt>
+Mastodon:
+</dt>
+<dd>https://front-end.social/@rhian</dd>
+</dl>
 
 <!--
 **escherina/escherina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
